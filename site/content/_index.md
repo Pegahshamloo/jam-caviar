@@ -1,6 +1,6 @@
 ---
 title: "Fab Academy "
-subtitle: Fabrication Journey by Pegah
+subtitle: Fabrication Journey by Pegah.
 image: /img/home-jumbotron.jpg
 blurb:
   heading: About
