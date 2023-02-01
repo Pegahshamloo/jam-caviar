@@ -1,13 +1,10 @@
 ---
 title: "Fab Academy "
-subtitle: Support sustainable creations while enjoying a cup
+subtitle: Fabrication Journey by Pegah.
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Aabogel?
-  text: Aabogel is a lifestyle store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: About
+  text: gg
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
